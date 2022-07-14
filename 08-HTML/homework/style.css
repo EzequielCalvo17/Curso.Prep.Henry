@@ -1,0 +1,23 @@
+html {
+        background-color: bisque;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: brown;
+    padding: 50px;
+    border: 5px solid black;
+}
+h1 {
+    color:darkred
+}
+img {
+    width: 400px;
+
+
+}
+#spanId{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 50px;
+}
